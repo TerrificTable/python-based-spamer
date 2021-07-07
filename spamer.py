@@ -1,7 +1,6 @@
 import tkinter as tk
 import pyautogui
 import time
-import keyboard
 
 window = tk.Tk()
 window.title("Spammer")
